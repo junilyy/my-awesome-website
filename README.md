@@ -1,1 +1,1 @@
-[choonsik](./choonsik.gif)
+![choonsik](./choonsik.gif)
